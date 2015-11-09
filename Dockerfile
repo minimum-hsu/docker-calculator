@@ -1,6 +1,6 @@
 FROM ubuntu:14.04.2
 
-MAINTAINER s5550055@yahoo.com.tw
+MAINTAINER minimum@cepave.com
 
 RUN useradd -m Minimum
 
